@@ -1,0 +1,5 @@
+baseURL = "http://gcalm.com/"
+languageCode = "pt-br"
+title = "Primeiro blog personalizado"
+theme = "terminal"
+
